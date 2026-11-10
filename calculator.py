@@ -1,3 +1,7 @@
+# https://github.com/cxsian/lab11-CS-KR.git
+# Partner 1: Cosmo Sian
+# Partner 2: Kaylee Rodriguez
+
 import math
 
 """
